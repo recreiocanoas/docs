@@ -12,29 +12,31 @@ Para quem não conhece, o **Github** é um site que gerencia a confecção de pr
 
 Ocorre que um programa nada mais é que um texto, ou seja, podemos (sub)utilizar o Github para editar apenas textos, como esse que vocês estão lendo. Para atingir nossos objetivos e melhorar o condomínio, não vamos precisar de todas as funções do Github, apenas de um treinamento simplificado. Com isso, já poderemos criar, debater, alterar e aprovar textos em  diversas discussões simultâneas sobre assuntos diversos que envolvem o nosso dia a dia.
 
-> Nota 1: Utilizando o navegador Chrome, para se traduzir o site para português, basta clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, serão mencionados alguns comandos em inglês mesmo, `marcados` para diferenciar.
+> Nota: Utilizando o navegador Chrome, para se traduzir o site para português, basta clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, serão mencionados alguns comandos em inglês mesmo, `marcados` para diferenciar.
 
 ![](https://i.imgur.com/m7K6i7w.png)
 
 ## Colaboradores
 
-A razão dessa iniciativa é angariar pessoas para cooperar em projetos do condomínio. Normalmente a maior dificuldade tem sido reunir as pessoas em um mesmo local em uma mesma hora. Essa iniciativa irá permitir que você possa dedicar algumas horas para trabalhar conforme sua vontade e disponibilidade, utilizando sua vocação e capacidade para contribuir com projetos diversos do condomínio.
+Depois de criada a organização, podemos convidar pessoas para se tornarem membros da organização.
 
-### Convidando pessoas para participar da organização
+A razão dessa iniciativa é angariar pessoas para cooperar em projetos do condomínio. Normalmente a maior dificuldade tem sido reunir as pessoas em um mesmo local em uma mesma hora. Essa iniciativa irá permitir que você possa dedicar algumas horas para trabalhar conforme sua vontade e disponibilidade, utilizando sua vocação e capacidade para contribuir em projetos diversos do condomínio.
 
-Podemos convidar qualquer pessoa para se tornar um membro da organização usando o nome de usuário ou endereço de e-mail do GitHub.
-Como vocês poderão ver no treinamento mais adiante, essa ferramenta não irá nos dizer o que devemos fazer, nós é que iremos escolher o que será feito. A partir de uma página em branco, teremos a possibilidade de construir juntos os textos necessários para gerenciar a organização Recreio Canoas.
+### Convidando pessoas
 
-Os colaboradores dos repositórios podem incluir membros da organização ou colaboradores externos. 
+Podemos convidar qualquer pessoa para se tornar um membro da organização usando o nome de usuário do Github ou endereço de e-mail. Os colaboradores podem incluir membros da organização ou colaboradores externos. 
 
 ### Colaboradores externos
 
-Um colaborador externo é uma pessoa que tem acesso a um ou mais repositórios de organização, mas não é explicitamente um membro da organização. Um colaborador externo tem acesso apenas aos repositórios permitidos.
+Um colaborador externo é uma pessoa que tem acesso a um ou mais repositórios de organização, mas não é explicitamente um membro da organização. Um colaborador externo tem acesso apenas aos repositórios a ele permitidos.
 
 ### Membro da organização
 
+A pessoa convidada receberá um e-mail convidando-a para a organização. Eles precisarão aceitar o convite antes de se tornarem membros da organização. Pode-se editar ou cancelar um convite a qualquer momento antes de o usuário aceitar.
+
 A pessoa sendo um membro explícito da organização pode:
 
+- Ter acesso de escrita aos repositórios da organização
 - Criar equipes
 - Ver todos os membros e equipes da organização
 - Fazer @menção a qualquer time visível
