@@ -24,7 +24,7 @@ A razão dessa iniciativa é angariar pessoas para cooperar em projetos do condo
 
 ### Convidando pessoas
 
-Podemos convidar qualquer pessoa para se tornar um membro da organização usando o nome de usuário do Github ou endereço de e-mail. Os colaboradores podem incluir membros da organização ou colaboradores externos. 
+Podemos convidar qualquer pessoa para se tornar um membro da organização, usando o seu nome de usuário do Github ou endereço de e-mail. Os colaboradores podem incluir membros da organização ou colaboradores externos. 
 
 ### Colaboradores externos
 
@@ -32,7 +32,7 @@ Um colaborador externo é uma pessoa que tem acesso a um ou mais repositórios d
 
 ### Membro da organização
 
-A pessoa convidada receberá um e-mail convidando-a para a organização. Eles precisarão aceitar o convite antes de se tornarem membros da organização. Pode-se editar ou cancelar um convite a qualquer momento antes de o usuário aceitar.
+As pessoas convidadas receberão um e-mail, convidando-a para a organização. Elas precisarão aceitar o convite antes de se tornarem membros da organização. Pode-se editar ou cancelar um convite a qualquer momento, antes de o usuário aceitar.
 
 A pessoa sendo um membro explícito da organização pode:
 
@@ -44,9 +44,9 @@ A pessoa sendo um membro explícito da organização pode:
 
 ### Organizando membros em equipes
 
-Agrupando membros da organização em equipes podemos refletir a estrutura de grupos de trabalho, definindo permissões de acesso (leitura/escrita) aos repositórios. Além disso, pessoas com permissões de mantenedor de equipe podem adicionar membros da organização a equipes. 
+Agrupando membros da organização em equipes pode-se refletir a estrutura de grupos de trabalho, definindo permissões de acesso aos repositórios. Além disso, pessoas com permissões de mantenedor de equipe podem adicionar membros da organização a equipes. 
 
-Os membros da organização podem solicitar rapidamente para participar de qualquer equipe. Um proprietário ou responsável pela equipe pode aprovar a solicitação. Use @menções para toda a equipe (ex.: @ recreiocanoas / consultivo) em qualquer comentário, questão ou solicitação de `pull`.
+Os membros da organização podem solicitar rapidamente para participar de qualquer equipe. Um  responsável pela equipe pode aprovar a solicitação. Use @menções para toda a equipe (ex.: @ recreiocanoas / consultivo) em qualquer comentário, questão ou solicitação de `pull` e todos os membros da equipe serão notificados.
 
 ## Criar uma conta no GitHub
 
