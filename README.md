@@ -44,9 +44,13 @@ A pessoa sendo um membro explícito da organização pode:
 
 ### Organizando membros em equipes
 
-Agrupando membros da organização em equipes pode-se refletir a estrutura de grupos de trabalho, definindo permissões de acesso aos repositórios. Além disso, pessoas com permissões de mantenedor de equipe podem adicionar membros da organização a equipes. 
+Agrupando membros da organização em equipes pode-se refletir a estrutura de grupos de trabalho, definindo permissões de acesso aos repositórios. Além disso, pessoas com permissões de mantenedor podem adicionar membros da organização à equipe. 
 
-Os membros da organização podem solicitar rapidamente para participar de qualquer equipe. Um  responsável pela equipe pode aprovar a solicitação. Use @menções para toda a equipe (ex.: @ recreiocanoas / consultivo) em qualquer comentário, questão ou solicitação de `pull` e todos os membros da equipe serão notificados.
+Os membros da organização podem solicitar rapidamente para participar de qualquer equipe, basta que um responsável pela equipe aprove a solicitação. Use @menções para toda a equipe (ex.: @recreiocanoas/consultivo) em qualquer comentário, questão ou solicitação de `pull` e todos os membros da equipe serão automaticamente notificados.
+
+## Ciclo do Processo
+
+![Ciclo do Processo](https://i.imgur.com/bXQ6kzv.png)
 
 ## Criar uma conta no GitHub
 
@@ -59,7 +63,6 @@ Vá para a [página de preços](https://github.com/pricing) do GitHub.
 - A página informa sobre as diferentes contas e planos que o GitHub oferece.
 - Clique em `Inscreva-se em um dos nossos planos gratuitos`.
 - Siga as instruções para criar sua conta pessoal.
-
 
 ### Mantenedores da equipe
 
@@ -75,4 +78,43 @@ O proprietário de uma organização pode promover qualquer membro da organizaç
 - Promover um membro da equipe existente para o mantenedor da equipe
 
 Se você já abriu sua conta pessoal (e gratuita) no Github, passe para o próximo passo, para iniciar o treinamento rápido e simplificado do fluxo de trabalho que vamos utilizar.
+
+## Passos para se criar uma estória de sucesso
+
+A principal característica desse método de trabalho é liberar os colaboradores para atuarem conforme sua disponibilidade. O trabalho dos colaboradores é então baseado na criação e evolução de estórias que irão gerar mudanças em um dos repositórios da organização Recreio Canoas.
+
+- Alguém propõe um assunto que passará a ser desenvolvido por um grupo de colaboradores.
+- Identifica-se dentro da organização Recreio Canoas os colaboradores participantes.
+- Dependendo do assunto, pode-se criar equipes de colaboradores.
+- A princípio, um repositório de dados estará associado ao assunto criado. 
+- Um `branch` de mudança é criado exclusivamente para cuidar do assunto.
+- Os colaboradores adicionam ou alteram texto ao assunto, mudando o  
+
+#### Comece com uma abordagem simples
+
+- Proponha um assunto que desperte o interesse do público.
+- Coloque um problema ou pergunta que precisa ser resolvido ou respondido.
+- **Ofereça uma solução** para o problema que você levantou.
+- Descreva benefícios específicos para adotar o curso de ação estabelecido em sua solução.
+- Declare um apelo à ação.
+
+#### Aprofunde-se e identifique o único propósito da sua estória
+
+- Identifique a ideia da sua estória. Pergunte a si mesmo: “O que estou realmente dando com essa estória?” Nunca é só a estória, mas o que ela pode fazer para melhorar a tomada de decisões. O que você está exibindo é a ideia de uma melhor tomada de decisão ou análise.
+- Desenvolva uma "declaração de paixão" pessoal. Em uma frase, diga à comunidade por que você está genuinamente animado em trabalhar com eles. Sua declaração de paixão será lembrada por muito tempo.
+
+#### Use cabeçalhos poderosos
+
+- Crie seu título, **uma declaração de uma frase** para sua estória, visão ou análise. As manchetes mais eficazes são concisas, específicas e oferecem um benefício pessoal.
+- Lembre-se, o seu título é uma declaração que oferece ao seu público uma visão de um melhor entendimento. Não é sobre você. É sobre eles.
+
+#### Projete um roteiro
+
+- Crie uma lista de todos os pontos-chave que você deseja que seu público saiba sobre sua história, visão ou análise.
+- Categorize a lista até você ficar com apenas três grandes pontos de mensagem. Este grupo de três fornecerá o mapa verbal da sua história.
+- Em cada uma das três mensagens principais, adicione evidências de apoio para melhorar a narrativa. Estes podem incluir alguns ou todos os itens a seguir: histórias pessoais, fatos, exemplos, analogias etc.
+
+#### Conclua com brevidade
+
+Agora que você apresentou todos os pontos da sua história, sua conclusão deve ser curta e poderosa.
 
