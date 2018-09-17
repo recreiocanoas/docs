@@ -10,7 +10,7 @@ Para quem não conhece, o **Github** é um site que gerencia a confecção de pr
 
 Ocorre que um programa nada mais é que um texto, ou seja, podemos (sub)utilizar o Github para editar apenas textos, como esse que vocês estão lendo. Para atingir nossos objetivos e melhorar o condomínio, não vamos precisar de todas as funções do Github, apenas de um treinamento simplificado. Com isso, já poderemos criar, debater, alterar e aprovar textos em  diversas discussões simultâneas sobre assuntos diversos que envolvem o nosso dia a dia.
 
-> Nota: Utilizando o navegador Chrome, pode-se traduzir o site para português, bastando clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, serão mencionados comandos em inglês mesmo, `marcados desta forma` para diferenciar.
+> Nota: Utilizando o navegador Chrome, pode-se traduzir o site para português, bastando clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, poderão ser mencionados comandos em inglês, `marcados desta forma` para diferenciar.
 
 ![](https://i.imgur.com/m7K6i7w.png)
 
@@ -34,7 +34,6 @@ As pessoas convidadas receberão um e-mail, convidando-a para a organização. E
 
 A pessoa sendo um membro explícito da organização pode:
 
-- Ter acesso de escrita aos repositórios da organização
 - Criar equipes
 - Ver todos os membros e equipes da organização
 - Fazer @menção a qualquer time visível
@@ -42,9 +41,9 @@ A pessoa sendo um membro explícito da organização pode:
 
 ### Organizando membros em equipes
 
-Agrupando membros da organização em equipes pode-se refletir a estrutura de grupos de trabalho, definindo permissões de acesso aos repositórios. Além disso, pessoas com permissões de mantenedor podem adicionar membros da organização à equipe. 
+Agrupando membros da organização em equipes pode-se refletir a estrutura de grupos de trabalho e definir mais facilmente as permissões de acesso aos repositórios. Além disso, pessoas com permissões de mantenedor podem adicionar membros da organização à equipe. 
 
-Os membros da organização podem solicitar rapidamente para participar de qualquer equipe, basta que um responsável pela equipe aprove a solicitação. Use @menções para toda a equipe (ex.: @recreiocanoas/consultivo) em qualquer comentário, questão ou solicitação de `pull` e todos os membros da equipe serão automaticamente notificados.
+Os membros da organização podem solicitar para participar de qualquer equipe, basta que um responsável pela equipe aprove a solicitação. Existe ainda a facilidade de se fazer @menções para toda a equipe (ex.: @recreiocanoas/consultivo) em qualquer comentário, questão ou solicitação de `pull`. Desta forma, todos os membros da equipe serão automaticamente notificados.
 
 ## Ciclo do Processo
 
