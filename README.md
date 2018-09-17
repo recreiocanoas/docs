@@ -2,11 +2,9 @@
 
 ## Organização Recreio Canoas
 
-Com o intuito de utilizar repositórios de informação para nos auxiliar em projetos do condomínio, foi criada a organização **Recreio Canoas**, acessada no link abaixo:
+Com o intuito de utilizar repositórios de informação para nos auxiliar em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando ferramentas  **totalmente gratuitas** para criar  repositórios de dados públicos e acessíveis a todos. Clique para obter [mais informações](https://help.github.com/articles/signing-up-for-a-new-github-account/) sobre os tipos de conta, e a diferença entre uma conta de usuário e de uma organização.
 
 [https://github.com/recreiocanoas](https://github.com/recreiocanoas)
-
-Estamos utilizando uma opção **totalmente gratuita**, em que todos os repositórios são públicos e acessíveis por todos. Clique no link para obter [mais informações](https://help.github.com/articles/signing-up-for-a-new-github-account/) sobre os tipos de conta, e a diferença entre uma conta de usuário e de uma organização.
 
 Para quem não conhece, o **Github** é um site que gerencia a confecção de programas de computador. Com 28 milhões de usuários e 85 milhões de repositórios, é o maior serviço de gerenciamento de código fonte do planeta. Foi comprado recentemente pela Microsoft por $8.5 bilhões de dólares e seu uso permite que pessoas espalhadas por todo o mundo colaborem em projetos de software, em um processo eficiente e versátil.
 
