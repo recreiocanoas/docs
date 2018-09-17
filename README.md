@@ -2,7 +2,7 @@
 
 ## Organização Recreio Canoas
 
-Com o intuito de utilizar repositórios de informação para nos auxiliar em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando ferramentas  **totalmente gratuitas** para criar  repositórios de dados públicos e acessíveis a todos. Clique para obter [mais informações](https://help.github.com/articles/signing-up-for-a-new-github-account/) sobre os tipos de conta, e a diferença entre uma conta de usuário e de uma organização.
+Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados públicos e acessíveis a todos. Clique para obter [mais informações](https://help.github.com/articles/signing-up-for-a-new-github-account/) sobre tipos de conta, e a diferença entre uma conta de usuário e de uma organização.
 
 [https://github.com/recreiocanoas](https://github.com/recreiocanoas)
 
