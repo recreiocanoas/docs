@@ -20,7 +20,7 @@ Ocorre que um programa nada mais é que um texto, ou seja, podemos (sub)utilizar
 
 Depois de criada a organização, podemos convidar pessoas para se tornarem membros da organização.
 
-A razão dessa iniciativa é angariar pessoas para cooperar em projetos do condomínio. Normalmente a maior dificuldade tem sido reunir as pessoas em um mesmo local em uma mesma hora. Essa iniciativa irá permitir que você possa dedicar algumas horas para trabalhar conforme sua vontade e disponibilidade, utilizando sua vocação e capacidade para contribuir em projetos diversos do condomínio.
+A razão dessa iniciativa é facilitar a cooperação em projetos do condomínio. Normalmente a maior dificuldade tem sido reunir as pessoas em um mesmo local em uma mesma hora. Essa iniciativa irá permitir que você possa dedicar algumas horas para trabalhar conforme sua vontade e disponibilidade, utilizando sua vocação e capacidade para contribuir em projetos diversos do condomínio.
 
 ### Convidando pessoas
 
