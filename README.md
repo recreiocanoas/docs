@@ -12,7 +12,7 @@ Para quem não conhece, o **Github** é um site que gerencia a confecção de pr
 
 Ocorre que um programa nada mais é que um texto, ou seja, podemos (sub)utilizar o Github para editar apenas textos, como esse que vocês estão lendo. Para atingir nossos objetivos e melhorar o condomínio, não vamos precisar de todas as funções do Github, apenas de um treinamento simplificado. Com isso, já poderemos criar, debater, alterar e aprovar textos em  diversas discussões simultâneas sobre assuntos diversos que envolvem o nosso dia a dia.
 
-> Nota: Utilizando o navegador Chrome, para se traduzir o site para português, basta clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, serão mencionados alguns comandos em inglês mesmo, `marcados` para diferenciar.
+> Nota: Utilizando o navegador Chrome, pode-se traduzir o site para português, bastando clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, serão mencionados comandos em inglês mesmo, `marcados desta forma` para diferenciar.
 
 ![](https://i.imgur.com/m7K6i7w.png)
 
