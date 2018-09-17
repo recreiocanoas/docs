@@ -50,6 +50,8 @@ Os membros da organização podem solicitar rapidamente para participar de qualq
 
 ## Ciclo do Processo
 
+O processo de contribuição dos colaboradores tem por objetivo evoluir os repositórios da Organização Recreio Canoas. Para que diversos colaboradores, distribuídos em equipes, possam trabalhar simultaneamente em assuntos diversos de interesse do condomínio, entrará em funcionamento um processo que pode ser visto no diagrama a seguir.
+
 ![Ciclo do Processo](https://i.imgur.com/bXQ6kzv.png)
 
 ## Criar uma conta no GitHub
