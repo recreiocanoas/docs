@@ -79,26 +79,30 @@ A mudança do REPO não é imediata, dando à comunidade a possibilidade de part
 
 - Reparem que no interesse de promover um ambiente aberto e acolhedor, nós, como colaboradores e mantenedores, comprometemo-nos a tornar a participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos. Veja um modelo de [Código de Conduta do Pacto de Contribuinte](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
+> Nota: Você também poderá transferir todo o conteúdo do RAMO para trabalhar localmente no seu microcomputador. Nesse caso, ao final de cada ESTÓRIA, pode-se salvar o conteúdo local do RAMO, do seu micro para o site Github, através da operação `push`. Mas o processo simplificado atual não irá necessitar do `push`.
+
 ### ESTÓRIA
 
 Para organizar o trabalho de um RAMO de mudança, sugere-se utilizar uma sequência de ESTÓRIAS. Cada ESTÓRIA representa uma fração do trabalho, atribuída a um membro ou equipe. Não há comando específico para iniciar uma ESTÓRIA, é um mero artifício para organização do trabalho. 
 
-Veremos mais adiante que você também poderá trabalhar no seu micro local. Ao final de cada ESTÓRIA, pode-se salvar o conteúdo do RAMO no site Github através da operação `push`. Mas o processo simplificado que estamos fazendo agora não irá necessitar do `push`, por enquanto.
+A princípio, o processo simplificado utiliza **única e exclusivamente o navegador Internet**. Para melhor experiência, sugere-se usar o [Google Chrome](https://www.google.com/chrome/).
 
-Suponha agora que a ESTÓRIA (ou tarefa a ser realizada) implica na alteração do texto de um arquivo do REPO ou na inclusão/exclusão de um arquivo. Afinal, é para isso que esse processo vai servir! Após a alteração, é utilizada a operação `commit` para registrar a mudança.
+Suponha agora que a ESTÓRIA (ou tarefa a ser realizada) implica na alteração do texto de um arquivo do REPO ou na inclusão/exclusão de um arquivo. Afinal, é para isso que esse processo serve! Após a alteração, é utilizada a operação `commit` para registrar a mudança.
 
 O Github é um site especializado em registrar mudanças, na forma de `commits`, com um tratamento de primeira classe:
 
-- Dê um **título** ao `commit`, para compor um **histórico** das mudanças realizadas por cada colaborador.
-- O `commit` registra as mudanças realizadas, além do título que você usou, a data e autor da mudança.
+- Basta dar um **título** ao `commit`, para compor o **histórico** das mudanças realizadas por cada colaborador.
+- O `commit` registra as mudanças realizadas. Além do título que você usou, são armazenadas a data e autor da mudança.
 - De novo, é uma boa prática fazer pequenas mudanças de cada vez, a cada `commit`.
 - Pode-se desfazer um `commit`, apesar de esta ser uma operação mais avançada para vermos depois.   
 
 ## Abrindo sua conta no GitHub
 
-O GitHub oferece contas gratuitas para usuários e organizações que trabalham em projetos públicos. Dispõe também de contas pagas que oferecem repositórios privados ilimitados. Você **não precisa** de uma conta paga para colaborar com o contúdo de repositórios de uma organização.
+O GitHub oferece contas gratuitas para usuários e organizações que trabalham em projetos públicos. Dispõe também de contas pagas que oferecem repositórios privados ilimitados. Mais uma vez, saiba que:
 
-Contudo, para participar ativamente na elaboração do conteúdo da organização Recreio Canoas será preciso ter um cadastro no Github. Veremos a seguir como fazer.
+- Você **não precisa** abrir uma conta no Github para ler os repositórios da organização Recreio Canoas.
+- Você **não precisa** de uma conta paga para colaborar com os repositórios da organização Recreio Canoas.
+- Para participar do conteúdo da organização Recreio Canoas, basta ter uma conta gratuita no Github.
 
 ### Inscrever-se no serviço gratuito
 
