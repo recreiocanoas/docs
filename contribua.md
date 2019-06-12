@@ -89,6 +89,10 @@ Pronto, repare que retornamos ao **site original** da organização! Resumindo, 
 
 ![](https://i.imgur.com/xEB7Qyj.png) 
 
-Todos os membros da organização podem agora debater sobre essa proposta de mudança. Assim que todos concordarem, clica-se no botão `Merge pull request` e as mudanças propostas são incorporadas definitivamente no texto original do arquivo em questão.
+Todos os membros da organização podem agora debater sobre essa proposta de mudança. Assim que todos concordarem, clica-se no botão `Merge pull request` e as mudanças propostas são incorporadas definitivamente no repositório original.
 
-Vou deixar este `Pull Request` em aberto pra que vocês possam ver os detalhes. Reparem que o arquivo original da organização ainda não mudou. Isso só ocorrerá após algum membro com poderes de escrita no repositório realizar o "merge".
+Isso significa que você pode alterar quantos arquivos forem necessários para propor uma mudança. Mas é importante prestar atenção para não acumular diversos assuntos em um mesmo `Pull Request`. O ideal é que cada um trate de um determinado tema, para que possa ser incorporado ao repositório original, assim que seja aprovado por todos.
+
+Vou deixar este `Pull Request` em aberto pra que vocês possam ver os detalhes. Reparem que o arquivo original da organização ainda não mudou. Isso só ocorrerá após algum membro com poderes de escrita no repositório realizar o `Merge`.
+
+Mas isso fica para outro texto.
