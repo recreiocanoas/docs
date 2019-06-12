@@ -44,7 +44,7 @@ Repare que você está agora usando uma cópia do repositório original:
 
 ![](https://i.imgur.com/Hxc3GJO.png)
 
-Saiba que nessa cópia do repositório você tem autorização de escrita. Então basta agora editar a página que você deseja alterar. Por exemplo, vou fazer uma alteração na página inicial do Radar Canoas, cujo endereço está listado a seguir:
+Saiba que nessa cópia do repositório você tem autorização de escrita. Então basta agora editar a página que você deseja alterar. Por exemplo, vou fazer uma alteração na página inicial da minha cópia (Fork) do Radar Canoas, cujo endereço está listado a seguir:
 
 [https://github.com/josemotta/radar/blob/master/README.md](https://github.com/josemotta/radar/blob/master/README.md)
 
