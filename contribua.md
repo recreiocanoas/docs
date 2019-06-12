@@ -4,17 +4,9 @@
 
 ## Como participar
 
-Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. Para ter acesso às informações, basta consultar o link:
+Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. As informações estão disponíveis para leitura, pois a opção **gratuita** que estamos usando só permite repositórios públicos. 
 
-[https://github.com/recreiocanoas](https://github.com/recreiocanoas)
-
-Para mais detalhes, favor ver a [documentação](https://github.com/recreiocanoas/docs) existente.
-
-Neste primeiro momento, todas as informações estão disponíveis para leitura, a opção **gratuita** que estamos usando só permite repositórios públicos. Ou seja, para tomar conhecimento do conteúdo não é necessário ser um membro da organização.
-
-Contudo, se você tem interesse em  colaborar na geração de conteúdo do site, por favor informe à administração seu  e-mail para receber um convite para se tornar membro.
-
-Um membro da organização poderá:
+Para tomar conhecimento do conteúdo não é necessário ser um membro da organização. Contudo, se você tem interesse em  colaborar na geração de conteúdo do site, informe à administração seu e-mail e receba um convite para se tornar membro. Um membro da organização poderá:
 
 - Propor e discutir alterações no conteúdo publicado
 - Criar equipes para projetos específicos
@@ -22,7 +14,7 @@ Um membro da organização poderá:
 - Fazer @menção a qualquer time visível
 - Ser um mantenedor de equipe, etc.
 
-## Comece criando uma conta no GitHub
+## Criar uma conta no GitHub
 
 O Github oferece contas gratuitas para usuários e organizações em projetos públicos, bem como contas pagas para repositórios privados ilimitados. Contudo, você **não precisa de uma conta  paga** para acessar e colaborar em repositórios de uma organização.
 
