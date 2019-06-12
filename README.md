@@ -1,16 +1,26 @@
+#### CRRC Radar 2019
+
 # docs
 
 ## Organização Recreio Canoas
 
-Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. Para ter acesso às informações, basta consultar o link:
+Com o intuito de gerenciar as informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. Para ter acesso às informações, basta consultar o link mostrado a seguir.
 
 [https://github.com/recreiocanoas](https://github.com/recreiocanoas)
+
+Essa iniciativa incentiva você a dedicar alguns minutos da semana para [contribuir](https://github.com/recreiocanoas/docs/blob/master/contribua.md) online para o conteúdo do site. Através da Internet, você poderá participar na medida do possível, no momento possível e na quantidade disponível para a ocasião.
+
+Em troca, a organização poderá realizar projetos para o condomínio unindo a sabedoria e inteligência que hoje está distribuída por todos mas não aproveitada adequadamente. Além de potencializar nossos projetos, você poderá ainda exercitar o mesmo workflow usado hoje em empresas gigantes de software do planeta. São essas empresas que mais crescem hoje em dia, no ambiente dinâmico da tecnologia da informação.
+
+Veja mais detalhes de como [contribuir](https://github.com/recreiocanoas/docs/blob/master/contribua.md) online.
+
+## Github
 
 Para quem não conhece, o **Github** é um site que gerencia a confecção de programas de computador. Com 28 milhões de usuários e 85 milhões de repositórios, é o maior serviço de gerenciamento de código fonte do planeta. Foi comprado recentemente pela Microsoft por $8.5 bilhões de dólares e seu uso permite que pessoas espalhadas por todo o mundo colaborem em projetos de software, em um processo eficiente e versátil. O site dispõe de [mais informações](https://help.github.com/articles/signing-up-for-a-new-github-account/) sobre os tipos de conta de usuário e de organização.
 
 Ocorre que um programa nada mais é que um texto, ou seja, podemos (sub)utilizar o Github para editar apenas textos, imagens e tabelas, como esse que vocês estão lendo. Para atingir nossos objetivos e melhorar o condomínio, não vamos precisar usar todas as funções do Github, apenas de um treinamento simplificado. Com isso, já seremos capazes de criar, debater, alterar e aprovar textos em  diversas pautas simultâneas sobre assuntos diversos que envolvem o nosso dia a dia.
 
-> Nota: O Github é escrito em, inglês. Contudo, utilizando o navegador Chrome, pode-se traduzir o site para português, bastando clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, poderão ser mencionados comandos em inglês, `marcados desta forma` para diferenciar.
+> Nota: O Github é escrito em, inglês. Contudo, utilizando o navegador Chrome, pode-se traduzir o site para português, bastando clicar o botão direito do mouse e selecionar a opção de tradução, como indicada abaixo. A partir daí, a navegação é mantida em português, apesar de alguns termos ficarem meio estranhos. A princípio, poderão ser mencionados comandos em inglês, `marcados desta forma` para diferenciar.
 
 ![](https://i.imgur.com/m7K6i7w.png)
 
@@ -83,7 +93,7 @@ A mudança do REPO não é imediata, dando à comunidade a possibilidade de part
 
 ### ESTÓRIA
 
-Para organizar o trabalho de um RAMO de mudança, sugere-se utilizar uma sequência de ESTÓRIAS. Cada ESTÓRIA representa uma fração do trabalho, atribuída a um membro ou equipe. Não há comando específico para iniciar uma ESTÓRIA, é um mero artifício para organização do trabalho. 
+Para organizar o trabalho de um RAMO de mudança, sugere-se utilizar uma sequência de ESTÓRIAS. Cada ESTÓRIA representa uma fração do trabalho, atribuída a um membro ou equipe. Não há comando específico para se iniciar uma ESTÓRIA, é um mero artifício para organização do trabalho. 
 
 A princípio, o processo simplificado utiliza **única e exclusivamente o navegador Internet**. Para melhor experiência, sugere-se usar o [Google Chrome](https://www.google.com/chrome/).
 
