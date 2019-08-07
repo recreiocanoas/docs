@@ -14,6 +14,8 @@ Para tomar conhecimento do conteúdo não é necessário ser um membro da organi
 - Fazer @menção a qualquer time visível
 - Ser um mantenedor de equipe, etc.
 
+Para saber como usar os repositórios de dados, veja [este treinamento](https://guides.github.com/activities/hello-world/).
+
 ## Criar uma conta no GitHub
 
 O Github oferece contas gratuitas para usuários e organizações em projetos públicos, bem como contas pagas para repositórios privados ilimitados. Contudo, você **não precisa de uma conta  paga** para acessar e colaborar em repositórios de uma organização.
