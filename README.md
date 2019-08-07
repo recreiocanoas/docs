@@ -2,14 +2,13 @@
 
 # docs
 
-Para saber como usar os repositórios de dados, veja [este treinamento](https://guides.github.com/activities/hello-world/).
-
 ## Organização Recreio Canoas
 
-Com o intuito de gerenciar as informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. Para ter acesso às informações, basta consultar os links mostrados a seguir.
+Com o intuito de gerenciar as informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. Para ter acesso às informações, basta consultar os links mostrados a seguir. 
 
 - [Organização Recreio Canoas](https://github.com/recreiocanoas)
 - [Como participar](https://github.com/recreiocanoas/docs/blob/master/contribua.md)
+- Para saber como usar os repositórios de dados, veja [este treinamento](https://guides.github.com/activities/hello-world/).
 
 Essa iniciativa incentiva você a dedicar alguns minutos da semana para [contribuir](https://github.com/recreiocanoas/docs/blob/master/contribua.md) online para o conteúdo do site. Através da Internet, você poderá participar na medida do possível, no momento possível e na quantidade disponível para a ocasião.
 
