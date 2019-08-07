@@ -2,7 +2,7 @@
 
 # docs
 
-Para saber como usar os reposítórios de dados, veja [este treinamento](https://guides.github.com/activities/hello-world/).
+Para saber como usar os repositórios de dados, veja [este treinamento](https://guides.github.com/activities/hello-world/).
 
 ## Organização Recreio Canoas
 
