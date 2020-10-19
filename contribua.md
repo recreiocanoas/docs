@@ -4,7 +4,7 @@
 
 ## Como participar
 
-Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. As informações estão disponíveis para leitura, pois a opção **gratuita** que estamos usando só permite repositórios públicos. 
+Com o intuito de gerenciar informações utilizadas em projetos do condomínio, foi criada a organização **Recreio Canoas**, utilizando uma ferramenta  **totalmente gratuita** que gerencia  repositórios de dados acessíveis a todos. As informações estão disponíveis para leitura. 
 
 Para tomar conhecimento do conteúdo não é necessário ser um membro da organização. Contudo, se você tem interesse em  colaborar na geração de conteúdo do site, informe à administração seu e-mail e receba um convite para se tornar membro. Um membro da organização poderá:
 
@@ -87,7 +87,12 @@ Revise o comentário, adicione explicações que fundamentam essa proposta de mu
 
 ![](https://i.imgur.com/4FldEXr.png)
 
-Pronto, repare que retornamos ao **site original** da organização! Resumindo, a partir das mudanças que você propôs em sua cópia (Fork), foi criada uma proposta de mudança no repositório da organização.
+Pronto, repare que retornamos ao **site original** da organização!
+
+Resumindo:
+
+- a partir das mudanças que você propôs em sua cópia (Fork),
+- foi criada uma proposta de mudança no repositório da organização.
 
 ![](https://i.imgur.com/xEB7Qyj.png) 
 
