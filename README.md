@@ -40,7 +40,7 @@ Um colaborador externo é uma pessoa que tem acesso a um ou mais repositórios d
 
 ### Membro da organização
 
-Neste primeiro momento, todas as informações estarão disponíveis a todos para leitura, pois a opção **gratuita** que estamos usando só permite repositórios públicos. Ou seja, para tomar conhecimento do conteúdo não é necessário ser um membro da organização. Contudo, se você tem interesse em  colaborar na geração de conteúdo do site, por favor procure a administração do condomínio, informe seu  e-mail e receba o convite para se tornar um membro.
+Para tomar conhecimento do conteúdo não é necessário ser um membro da organização. Contudo, se você tem interesse em  colaborar na geração de conteúdo do site, por favor procure a administração do condomínio, informe seu  e-mail e receba o convite para se tornar um membro.
 
 A pessoa sendo um membro explícito da organização poderá:
 
