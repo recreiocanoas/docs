@@ -85,18 +85,18 @@ Uma tela com todos os detalhes das suas alterações vai surgir. Clique no botã
 
 Revise o comentário, adicione explicações que fundamentam essa proposta de mudança e clique em `Create pull request`.
 
-![](https://i.imgur.com/4FldEXr.png)
+## Debate sobre o Pull Request
 
-Pronto, repare que retornamos ao **site original** da organização!
-
-Resumindo:
+Pronto, repare que retornamos ao **site original** da organização! Resumindo:
 
 - a partir das mudanças que você propôs em sua cópia (Fork),
 - foi criada uma proposta de mudança no repositório da organização.
 
+Todos os membros da organização podem agora debater sobre essa proposta de mudança. Veja abaixo o desenrolar do debate:
+
 ![](https://i.imgur.com/xEB7Qyj.png) 
 
-Todos os membros da organização podem agora debater sobre essa proposta de mudança. Assim que todos concordarem, clica-se no botão `Merge pull request` e as mudanças propostas são incorporadas definitivamente no repositório original.
+Assim que todos concordarem, clica-se no botão `Merge pull request` e as mudanças propostas são incorporadas definitivamente no repositório original.
 
 Isso significa que você pode alterar quantos arquivos forem necessários para propor uma mudança. Mas é importante prestar atenção para não acumular diversos assuntos em um mesmo `Pull Request`. O ideal é que cada um trate de um determinado tema, para que possa ser incorporado ao repositório original, assim que seja aprovado por todos.
 
